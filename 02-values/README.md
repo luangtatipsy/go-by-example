@@ -1,4 +1,4 @@
-# Example 1: Values
+# Example 2: Values
 
 Go has various value types including strings, integers, floats, booleans, etc. Here are a few basic examples. 
 
