@@ -1,4 +1,4 @@
-# Example 6: If/Else
+# Example 7: If/Else
 
 In go `switch` statements express conditionals across many branches. Here’s a basic `switch`.
 
